@@ -4,13 +4,13 @@ git clone https://github.com/dinaramashaeva/midterm.git
 
 then move to directory where we have the project files : 
 '''code:
-cd StudyBud
+cd blog
 
 3. Create and install virtual environment :
 '''code:
 pip install virtualenv
 
-virtualenv env
+'''code:virtualenv env
 
 
 4. Activate the virtual environment :
