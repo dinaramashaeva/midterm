@@ -2,24 +2,24 @@
 '''code:
 git clone https://github.com/dinaramashaeva/midterm.git
 
-then move to directory where we have the project files : 
-'''code:
-cd blog
 
-3. Create and install virtual environment :
+2. Create and install virtual environment :
 '''code:
 pip install virtualenv
 
 '''code:virtualenv env
 
 
-4. Activate the virtual environment :
+3. Activate the virtual environment :
 '''code:
 env\scripts\activate
 
-5. Install the requirements :
+4. Install the requirements :
 '''code:
 pip install -r requirements.txt
+5. then move to directory where we have the project files : 
+'''code:
+cd blog
 
 6. Run the App
 '''code:
