@@ -13,6 +13,7 @@ pip install virtualenv
 Install the requirements :
 '''code:
 pip install -r requirements.txt
+'''code: set-executionpolicy unrestricted
 
 Activate the virtual environment :
 '''code:
