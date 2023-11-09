@@ -20,8 +20,6 @@ Activate the virtual environment :
 env\scripts\activate
 '''code:
 pip install django
-'''code:
-python manage.py migrate
 
 Run the App
 '''code:
