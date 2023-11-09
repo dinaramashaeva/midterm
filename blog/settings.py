@@ -52,6 +52,9 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'blog.urls'
+AUTHENTICATION_BACKENDS = (
+    'django.contrib.auth.backends.ModelBackend',
+    )
 
 TEMPLATES = [
     {
